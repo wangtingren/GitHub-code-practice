@@ -18,3 +18,4 @@ GitHub就是一个金库，好的项目需要发掘，一个好的轮子能够�
 | `rabbitMq-demo` |[rabbitMq](https://github.com/rabbitmq/rabbitmq-server) |rabbitMq|[实战：SpringBoot集成rabbitmq并实现延时队列](https://mp.weixin.qq.com/s/E3xlhhMGStoCQC05vZscSQ)|
 | `FastDFS-demo` |[fastdfs](https://github.com/happyfish100/fastdfs) |fastdfs图片服务器api调用|[docker搭建FastDFS文件系统并集成SpringBoot](https://mp.weixin.qq.com/s/FSqv4lNz7PjmV6NH2i87DQ)|
 | `auth-demo` |[jwt](#) |jwt|[实战：十分钟实现基于JWT前后端分离的权限框架](https://mp.weixin.qq.com/s/1I4WeLU8FHxuqfv8GiHUgw)|
+              个梵蒂冈地方个
